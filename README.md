@@ -1,9 +1,3 @@
-Excelente escolha de projeto, Gabriel\! Ayrton Senna é uma figura icônica e homenageá-lo é uma ótima maneira de demonstrar suas habilidades em desenvolvimento web.
-
-Aqui está o README.md completo para o seu projeto da Página de Homenagem (Tribute Page), seguindo o mesmo padrão bilíngue e com os detalhes específicos do projeto.
-
------
-
 # 🏁 Ayrton Senna Tribute Page
 
 -----
